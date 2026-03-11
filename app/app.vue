@@ -6,6 +6,6 @@ import HelloWorld from './components/HelloWorld.vue';
 <template>
   <div>
     <NuxtRouteAnnouncer />
-    <HelloWorld></HelloWorld>
+    <NuxtPage />
   </div>
 </template>
